@@ -3,3 +3,31 @@
   padding: 0;
   box-sizing: border-box;
 }
+nav{
+  border-top: 1px solid black ;
+  border-bottom:1px solid black;
+}
+.header-title{
+  text-align: center;
+  padding: 20px 0;
+}
+.header-list{
+  text-align: center;
+  margin: 0 auto;
+  
+  
+
+}
+.header-list li{
+  margin:15px 20px;
+  display: inline-block;
+  
+}
+footer{
+  background-color: grey;
+  height: 120px;
+}
+.footer-title{
+  text-align: center;
+  line-height: 120px;
+}
